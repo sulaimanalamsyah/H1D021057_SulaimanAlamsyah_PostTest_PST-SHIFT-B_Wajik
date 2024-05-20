@@ -1,0 +1,35 @@
+Paket Soal Wajik
+Servo :
+Motor servo bekerja dengan mengontrol posisi rotor 
+dengan cara mengubah arus listrik yang diterima oleh motor servo. 
+Motor servo akan berputar dan berhenti sesuai dengan perintah inputannya.
+
+LCD :
+LCD bekerja dengan memodifikasi cahaya yang melewati lapisan kristal cair dengan dikontrol oleh tegangan.
+Kristal cair pada lcd berperan untuk menentukan cahaya yang diterima sehingga gambar dapat terbentuk.
+
+Contoh PST :
+Jam alarm
+Kalkulator
+Penyiram Tanaman
+Termostat
+Vending Machine
+Mesin cuci
+Kulkas
+Microwave
+Smart TV
+Smartphone
+Gaming Console
+ECU
+Heartbeat Monitor
+
+Projek PST :
+Dalam matkul pst kami berencana membuat sebuah Smart Plant
+Smart Plant adalah sebuah sistem yang dapat mengontrol suhu dan kelembaban tanaman dengan menggunakan sensor dan motor servo.
+Barang yang dibutuhkan secara general yaitu sebuah NodeMCU, Sensor, Relay, LCD, dan Pompa air
+Pembuatan ini bertujuan untuk  fleksibilitas penyiraman tanaman yang tepat dan sesuai kebutuhan secara otomatis dan mendorong penggunaan teknologi IoT dalam sektor pertanian.
+Sistem tanaman pintar berbasis IoT bekerja dengan mengintegrasikan sensor, mikrokontroler, konektivitas internet, dan platform cloud untuk mengotomatisasi dan memantau pertumbuhan tanaman. 
+Sensor yang dipasang di sekitar tanaman mengukur parameter penting kelembaban tanah. 
+Data ini dikirim ke mikrokontroler yang menghubungkannya ke platform cloud melalui Wi-Fi. 
+Platform cloud menganalisis data secara real-time dan memberikan perintah balik ke mikrokontroler untuk mengaktifkan sistem smart plant.
+Pemantauan dapat melaui aplikasi Blynk
